@@ -3,10 +3,10 @@ Colaboraciones con Flisol Argentina en comunicación por su aniversario de 15 a�
 
 ## Cómo usar estos templates?
 
-La carpeta assets contiene logos, tipografias y elementos útiles.
-Cada carpeta tiene el svg original en capas y ejemplos de post.
-**En cada SVG la capa data_colores tiene los logos flisol , info de tipografia y paleta utilizada** 
-Los textos actuales son de referencia y en debate por la coordinación de flisol para ver si serán los últimos.
+La carpeta assets contiene logos, tipografias y elementos útiles.  
+Cada carpeta tiene el svg original en capas y ejemplos de post.  
+**En cada SVG la capa data_colores tiene los logos flisol , info de tipografia y paleta utilizada**   
+Los textos actuales son de referencia y en debate por la coordinación de flisol para ver si serán los últimos.  
 
 
 
