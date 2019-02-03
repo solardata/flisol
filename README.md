@@ -1,6 +1,8 @@
 # flisol
 Colaboraciones con Flisol Argentina en comunicación por su aniversario de 15 años
 
+![Flisol 2019](https://raw.githubusercontent.com/solardata/flisol/master/flisol_2019/flisol_2019.png)
+
 ## Cómo usar estos templates?
 
 La carpeta assets contiene logos, tipografias y elementos útiles.  
