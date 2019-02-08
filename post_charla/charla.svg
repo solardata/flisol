@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="charla.svg"
-   inkscape:export-filename="/home/solardatasystem/Escritorio/prueba1.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-filename="/home/solardatasystem/Escritorio/flisol15anos/flisol/post_charla/charla.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4">
     <linearGradient
@@ -11319,11 +11319,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23996709"
-     inkscape:cx="119.6576"
-     inkscape:cy="-118.54477"
+     inkscape:zoom="0.40697253"
+     inkscape:cx="490.47962"
+     inkscape:cy="131.93988"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="g4750"
      showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -11350,7 +11350,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12875,7 +12875,7 @@
        xml:space="preserve"
        id="flowRoot3278-1-9-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
-       transform="matrix(1.4354661,0,0,1.6820855,3274.782,-685.54163)"><flowRegion
+       transform="matrix(1.4354661,0,0,1.6820855,3228.7101,-685.54163)"><flowRegion
          id="flowRegion3280-7-9-3"
          style="fill:#333333"><rect
            id="rect3282-2-60-0"
@@ -12889,7 +12889,7 @@
        xml:space="preserve"
        id="flowRoot3278-1-2-7-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
-       transform="matrix(3.4467052,0,0,4.0388642,7002.3556,-2551.5449)"><flowRegion
+       transform="matrix(3.4467052,0,0,4.0388642,6958.1019,-2544.3661)"><flowRegion
          id="flowRegion3280-7-2-6-68"
          style="fill:#333333"><rect
            id="rect3282-2-6-1-8"
@@ -12898,12 +12898,12 @@
            x="-1895.1682"
            y="784.33594"
            style="fill:#333333" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.71539783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#333333"
-         id="flowPara4062-43">15 años de Software Libre</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.36041355px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#333333"
+         id="flowPara3030">15 años compartiendo Software Libre</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3278-1-2-7-9-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
-       transform="matrix(3.4467052,0,0,4.0388642,7098.3268,-2514.1856)"><flowRegion
+       transform="matrix(3.4467052,0,0,4.0388642,6721.1264,-2522.9714)"><flowRegion
          id="flowRegion3280-7-2-6-6-4"
          style="fill:#333333"><rect
            id="rect3282-2-6-1-1-9"

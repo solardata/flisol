@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="post_sede.svg"
-   inkscape:export-filename="/home/solardatasystem/Escritorio/flisol15anos/flisol/post_sede_territorio/sede_purmamarca2.png"
+   inkscape:export-filename="/home/solardatasystem/Escritorio/flisol15anos/flisol/post_sede_territorio/sede_purmamarca3.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -11349,11 +11349,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40697253"
-     inkscape:cx="405.18351"
-     inkscape:cy="200.18953"
+     inkscape:zoom="0.48804909"
+     inkscape:cx="501.05157"
+     inkscape:cy="318.16116"
      inkscape:document-units="px"
-     inkscape:current-layer="g6880"
+     inkscape:current-layer="g6717"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -13031,7 +13031,7 @@
            y="784.33594"
            style="fill:#ffffff" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff"
-         id="flowPara4062">15 años de Software Libre</flowPara></flowRoot>    <flowRoot
+         id="flowPara4062">15 años compartiendo Software Libre</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3278-1-2-7-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -13052,7 +13052,7 @@
      inkscape:groupmode="layer"
      id="g30540"
      inkscape:label="TextoSede_BordeBlanco"
-     style="display:inline">
+     style="display:none">
     <flowRoot
        xml:space="preserve"
        id="flowRoot30522"
@@ -13101,7 +13101,7 @@
          id="flowPara3284-7-2-0"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.46825218px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Ultra-Bold';fill:#333333">FLISOL2019</flowPara></flowRoot>  </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="FormaGradient_Centro"
      id="g6408"
      inkscape:groupmode="layer">
@@ -13239,7 +13239,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="TextoSede_Centro"
      id="g6717"
      inkscape:groupmode="layer">
@@ -13275,10 +13275,12 @@
            id="rect6709"
            style="fill:#333333" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.60688686px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;text-anchor:middle;fill:#333333"
-         id="flowPara6713">15 años de Software Libre</flowPara></flowRoot>    <flowRoot
+         id="flowPara6713">15 años compartiendo </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.60688686px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Medium';text-align:center;text-anchor:middle;fill:#333333"
+         id="flowPara5804">Software Libre</flowPara></flowRoot>    <flowRoot
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       transform="matrix(1.8665828,0,0,2.1872699,3377.429,-1317.3961)"
+       transform="matrix(1.8665828,0,0,2.1872699,3377.429,-1272.3961)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#333333;fill-opacity:1;stroke:none"
        id="flowRoot6707-1"
        xml:space="preserve"><flowRegion

@@ -11330,11 +11330,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33936471"
-     inkscape:cx="-2.4625932"
-     inkscape:cy="23.898694"
+     inkscape:zoom="0.81394505"
+     inkscape:cx="398.1715"
+     inkscape:cy="417.04563"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="true"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -11361,7 +11361,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12815,7 +12815,7 @@
            y="784.33594"
            style="fill:#ffffff" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.57634783px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Semi-Bold';fill:#ffffff"
-         id="flowPara4062">15 años de Software Libre</flowPara></flowRoot>    <flowRoot
+         id="flowPara4062">15 años compartiendo Software Libre</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3278-1-2-7-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.33333206px;line-height:0.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
